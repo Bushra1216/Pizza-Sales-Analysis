@@ -1,5 +1,7 @@
 use [Pizza Sales Database];
 
+--KPI analyze
+
 select * from pizza_sales;
 
 select SUM(total_price) AS Total_Revenue from pizza_sales;
