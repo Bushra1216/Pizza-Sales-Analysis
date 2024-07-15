@@ -1,5 +1,5 @@
 # Comprehensive Pizza Sales Data Analysis
-Face Image generation using deep learning model DCGAN and compared with GAN model.
+
 
 
 ### Project Overview
@@ -104,6 +104,9 @@ While this analysis provides valuable insights into pizza sales trends and perfo
  ### Conclusion
 
 This project provides a detailed analysis of pizza sales data through various visualizations, enabling stakeholders to gain valuable insights into sales trends, customer preferences, and performance metrics. The findings from this analysis will support strategic decision-making and drive business growth.
+
+Feel free to explore this. If you have any questions or suggestions, please open an issue or reach out to [shanjidabushra@gmail.com](shanjidabushra@gmail.com)
+
 
 
 
