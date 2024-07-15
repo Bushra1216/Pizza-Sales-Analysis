@@ -10,9 +10,7 @@ This project aims to analyze key performance indicators (KPIs) for pizza sales d
 ### Data Source
 This project provides a detailed analysis of pizza sales data through various visualizations, enabling stakeholders to gain valuable insights into sales trends, customer preferences, and performance metrics.The primary dataset used for this analysis is the [pizza_sales.csv](https://drive.google.com/file/d/1IdSvxXmciaZJ9RrSOrjO0bZPlQPKJaKT/view?usp=sharing) containing detailed information about one year sales.
 
-https://drive.google.com/file/d/1IdSvxXmciaZJ9RrSOrjO0bZPlQPKJaKT/view?usp=sharing
 
-The model is trained and evaluated on the [CelebFaces Attributes (CelebA) Dataset](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) to showcase its performance in generating realistic face images.
 
 ### Tools
 -Excel - Data Cleaning
