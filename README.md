@@ -13,9 +13,9 @@ This project provides a detailed analysis of pizza sales data through various vi
 
 
 ### Tools
--Excel - Data Cleaning
--Microsoft SQL Server - Data Analysis
--Power BI - Data Visualization and Report Creating
+- Excel - Data Cleaning
+- Microsoft SQL Server - Data Analysis
+- Power BI - Data Visualization and Report Creating
 
 
 ### Data Cleaning
