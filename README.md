@@ -44,12 +44,12 @@ To prepare data before analysis, performed these followings-
 
 
 ### Analysis and Visualization
-To gain insights business performance, have analyzed the key indicators for pizza sales data. Specifically, the following metrices:
-1.Total revenue
-2.Average order value
-3.Total pizzas sold
-4.Total orders
-5.Average pizza per order 
+To gain insights business performance, have analyzed the key indicators for pizza sales data. Specifically, the following metrices: <br>
+1. Total revenue <br>
+2. Average order value <br>
+3. Total pizzas sold <br>
+4. Total orders <br>
+5. Average pizza per order <br>
 
 Include some code features worked with
 
